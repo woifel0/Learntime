@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npm run build",
+  "startCommand": "npm run preview",
+  "installCommand": "npm install",
+  "rootDirectory": "client"
+}
