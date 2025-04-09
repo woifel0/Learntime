@@ -1,0 +1,109 @@
+{
+  "app": {
+    "title": "TimeTrack",
+    "tagline": "Verfolge deine Lernfortschritte"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "categories": "Kategorien",
+    "settings": "Einstellungen"
+  },
+  "common": {
+    "loading": "Laden...",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "search": "Suchen",
+    "noData": "Keine Daten verfügbar"
+  },
+  "timeRange": {
+    "day": "Tag",
+    "week": "Woche",
+    "month": "Monat"
+  },
+  "dashboard": {
+    "currentSession": "Aktuelle Sitzung",
+    "totalTime": "Gesamtzeit",
+    "sessionsCount": "Anzahl der Sitzungen",
+    "dailyAverage": "Täglicher Durchschnitt",
+    "dailyProgress": "Täglicher Fortschritt",
+    "categoryBreakdown": "Kategorie-Aufschlüsselung",
+    "recentActivities": "Neueste Aktivitäten",
+    "viewAll": "Alle anzeigen"
+  },
+  "timer": {
+    "start": "Start",
+    "pause": "Pause",
+    "stop": "Stopp",
+    "resume": "Fortsetzen",
+    "selectCategory": "Kategorie auswählen",
+    "selectActivity": "Aktivität auswählen",
+    "addNote": "Füge eine Notiz über das, was du lernst, hinzu...",
+    "started": "Timer gestartet",
+    "paused": "Timer pausiert",
+    "stopped": "Timer gestoppt",
+    "startedMessage": "Deine Lernzeit wird jetzt verfolgt",
+    "pausedMessage": "Du kannst deine Lernsitzung jederzeit fortsetzen",
+    "stoppedMessage": "Deine Lernsitzung wurde aufgezeichnet",
+    "startError": "Timer konnte nicht gestartet werden: {{message}}",
+    "pauseError": "Timer konnte nicht pausiert werden: {{message}}",
+    "stopError": "Timer konnte nicht gestoppt werden: {{message}}"
+  },
+  "category": {
+    "title": "Kategorien",
+    "newCategory": "Neue Kategorie",
+    "addCategory": "Kategorie hinzufügen",
+    "editCategory": "Kategorie bearbeiten",
+    "name": "Kategorie-Name",
+    "icon": "Symbol",
+    "color": "Farbe",
+    "created": "Kategorie erstellt",
+    "updated": "Kategorie aktualisiert",
+    "deleted": "Kategorie gelöscht",
+    "createdMessage": "Deine neue Kategorie wurde erfolgreich erstellt",
+    "updatedMessage": "Deine Kategorie wurde erfolgreich aktualisiert",
+    "deletedMessage": "Deine Kategorie wurde erfolgreich gelöscht"
+  },
+  "activity": {
+    "title": "Aktivitäten",
+    "allActivities": "Alle Lernaktivitäten",
+    "newActivity": "Neue Aktivität",
+    "addActivity": "Aktivität hinzufügen",
+    "editActivity": "Aktivität bearbeiten",
+    "name": "Aktivitätsname",
+    "description": "Beschreibung",
+    "category": "Kategorie",
+    "totalTime": "Gesamtzeit",
+    "lastSession": "Letzte Sitzung",
+    "actions": "Aktionen",
+    "created": "Aktivität erstellt",
+    "updated": "Aktivität aktualisiert",
+    "deleted": "Aktivität gelöscht",
+    "createdMessage": "Deine neue Lernaktivität wurde erfolgreich erstellt",
+    "updatedMessage": "Deine Aktivität wurde erfolgreich aktualisiert",
+    "deletedMessage": "Deine Aktivität wurde erfolgreich gelöscht",
+    "emptyMessage": "Keine Aktivitäten gefunden. Erstelle deine erste Aktivität, um Zeit zu verfolgen.",
+    "selectFirst": "Bitte wähle zuerst eine Aktivität aus"
+  },
+  "error": {
+    "required": "Dieses Feld ist erforderlich",
+    "minLength": "Muss mindestens {{min}} Zeichen lang sein",
+    "maxLength": "Darf höchstens {{max}} Zeichen lang sein",
+    "generic": "Ein Fehler ist aufgetreten. Bitte versuche es erneut."
+  },
+  "settings": {
+    "description": "Konfiguriere deine Anwendungseinstellungen",
+    "language": "Sprache",
+    "languageDescription": "Wähle die Sprache, die du in der Anwendung verwenden möchtest",
+    "selectLanguage": "Sprache auswählen",
+    "english": "Englisch",
+    "german": "Deutsch",
+    "languageChanged": "Sprache geändert",
+    "languageChangedMessage": "Die Anwendungssprache wurde erfolgreich aktualisiert",
+    "appPreferences": "Anwendungseinstellungen",
+    "appPreferencesDescription": "Passe deine Anwendungseinstellungen an",
+    "resetSettings": "Alle Einstellungen zurücksetzen"
+  }
+}
